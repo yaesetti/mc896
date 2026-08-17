@@ -1,2 +1,2 @@
 # mc896
-Repo to store exercises made in MC896 (Natural Language Processing) at Unicamp.
+Solving Natural Language Processing (NLP) labs for the MC896 course at Unicamp, taught by Prof. André Santachè.
