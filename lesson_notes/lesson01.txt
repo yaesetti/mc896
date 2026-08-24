@@ -1,0 +1,5 @@
+1) Passar uma lista contendo as palavras que são necessárias estar no texto (Brutus e Caesar) e uma lista com palavras que não podem estar (Calpurnia). Após isso o sistema passa por todos os textos verificando se possui tanto as palavras que devem estar, parando caso encontre alguma das palavras que não podem.
+
+2) Criar um ponteiro para cada palavra e incrementar o menor cada vez que encontra a palavra.
+
+3) Utilizando as zonas com peso podemos atribuir mais “pontos” para os textos que apresentem as palavras indicadas em zonas mais relevantes. Podemos também definir peso para a ordem em que as palavras são passadas. Podemos também normalizar a frequência em que a palavra aparece pelo número de palavras totais.
