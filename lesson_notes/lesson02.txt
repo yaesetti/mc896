@@ -1,5 +1,0 @@
-1) \d+(\.\d+)?
-2) (\d\d\)\:(\d\d) ou (\d{2})\:(\d{2})
-3) S => NP VP => DET NOUM VP => the NOUM VP =>
-   the pterosaur VP => the pterosaur VERB => the pterosaur hunts
-4) Imagem em anexo no Classroom
