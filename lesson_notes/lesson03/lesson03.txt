@@ -1,0 +1,3 @@
+1) Normalização Gaussiana
+2) Rankear pelos scores
+3) Semântica é o sentido que uma palavra ou um conjunto de palavras possui dado um contexto
